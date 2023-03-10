@@ -1,0 +1,27 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+form{
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background: linear-gradient(#bd09b7 , #6b4cf5);
+    box-shadow: 2px 2px 10px 3px black;
+    color: #ffff;
+}
+
+.input label ,.select label {
+  display: block;
+}
+
+.input input, .select select{
+    padding: 7px;
+    width: 100%;
+}
+.botom input{
+    margin-left: auto;
+    display: block;
+}
+
