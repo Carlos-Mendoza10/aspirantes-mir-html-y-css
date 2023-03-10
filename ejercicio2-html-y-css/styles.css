@@ -25,3 +25,13 @@ form{
     display: block;
 }
 
+@media(max-width: 500px){
+    .form{
+        width: 100%;
+    }
+}
+@media(min-width: 500px){
+    .form{
+        width: 300px;
+    }
+}
